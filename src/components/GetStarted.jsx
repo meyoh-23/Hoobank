@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function GetStarted() {
   return (
@@ -6,4 +6,4 @@ function GetStarted() {
   )
 }
 
-export default GetStarted
+export default GetStarted;
